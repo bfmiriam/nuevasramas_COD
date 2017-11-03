@@ -28,7 +28,7 @@ public class Boletin2_8 {
         
 System.out.println("Total= "+total+"€");  
 
-System.out.println("version 1.1");
+System.out.println("version 1.1 nueva rama");
           
           
           
